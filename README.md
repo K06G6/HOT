@@ -1,34 +1,24 @@
-# HOT — House of Thunder Website
+# HOT — House of Thunder
 
-This is the official website for **House of Thunder**, served at **https://houseofthunder.org**.
+**House of Thunder (HOT)** is a community-driven NGO and cultural hub for creatives.
 
-## What this is
-A single-page static website. There is no database or server code — just an
-`index.html` file (the page) plus a few supporting files. It is hosted for free
-by **GitHub Pages**, which publishes whatever is in this repository.
+We build the conditions for culture to exist — a space where artists, makers,
+researchers, performers, and unconventional thinkers develop ideas, collaborate,
+and experiment together.
 
-## How updates work
-1. Edit `index.html` (or the images/fonts) in this folder.
-2. Save your changes.
-3. "Commit" the changes and "push" them to GitHub (your assistant does this for you).
-4. GitHub Pages rebuilds the site automatically — usually within a minute or two.
+## What we do
 
-In short: **every time changes are pushed here, the live website updates.**
+- **Creativity** — brand identity, creative direction, and content.
+- **Coaching** — business strategy, leadership, and mentorship.
+- **Marketing** — data-driven digital strategy and growth.
+- **Events** — cultural production and brand experiences.
 
-## Folder contents
-- `index.html` — the website page itself (text, layout, and styles all live here).
-- `CNAME` — tells GitHub to use the custom domain `houseofthunder.org`.
-- `logo.png` — the HOT logo used in search results and structured data.
-- `og-image.png` — the preview image shown when the site is shared on social media.
-- `fonts/` — the website's fonts, stored locally so the page does not depend on
-  outside services to look right.
+## Community
 
-## Custom domain
-The site uses the domain `houseofthunder.org` (configured via the `CNAME` file
-and GitHub Pages settings). DNS is managed at Namecheap and points to GitHub's
-servers.
+HOT runs on collaboration: open calls, residencies, cross-disciplinary projects,
+and public showcases. Culture does not happen in isolation — it happens when
+people build together.
 
-## Notes
-- No build step is required — what you see in the repo is what gets published.
-- If something looks broken on the live site, check that the latest changes were
-  pushed and wait a minute or two for GitHub Pages to finish building.
+---
+
+*This repository holds the public-facing site for House of Thunder.*
